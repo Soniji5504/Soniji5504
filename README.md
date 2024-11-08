@@ -39,6 +39,8 @@ I'm always working to expand my technical skills. Right now, I'm focused on:
 ### 📫 Connect with Me
 
 - **LinkedIn:** www.linkedin.com/in/dhruv-soni-169330235
+- **Instagram** https://www.instagram.com/_soni_ji_.01/
+- **Email** dhruvsoniji050504@gmail.com
 
 
 ---
