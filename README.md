@@ -10,11 +10,11 @@
 ---
 
 ## 🔥 About Me
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at ITM University, Gwalior
-- 💡 Skilled in **Frontend + Backend Development**
-- 🌱 Currently deepening knowledge in **Java** and **Scalable Backend Systems**
-- 🎯 Goal: To become a proficient **Full-Stack Software Engineer** and contribute to impactful projects
-- ⚡ Fun fact: I enjoy experimenting with new frameworks and debugging tricky problems 😅
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at ITM University, Gwalior  
+- 💡 Skilled in **Frontend + Backend Development**  
+- 🌱 Currently deepening knowledge in **Java** and **Scalable Backend Systems**  
+- 🎯 Goal: To become a proficient **Full-Stack Software Engineer** and contribute to impactful projects  
+- ⚡ Fun fact: I enjoy experimenting with new frameworks and debugging tricky problems 😅  
 
 ---
 
@@ -69,7 +69,7 @@ Full-stack ride-booking app inspired by Uber.
 **Tech:** React, Node.js, Express, MongoDB, Google Maps API  
 - Real-time ride tracking  
 - User/Driver authentication  
-- Fare calculation & trip history
+- Fare calculation & trip history  
 
 ---
 
@@ -78,7 +78,7 @@ Web portal to collect and resolve customer complaints.
 **Tech:** React, Node.js, MongoDB  
 - User feedback submission & tracking  
 - Admin dashboard for management  
-- Automated email responses
+- Automated email responses  
 
 ---
 
@@ -87,36 +87,46 @@ Restaurant web app for online orders & table booking.
 **Tech:** HTML, CSS, Bootstrap, PHP, MySQL  
 - Cart & checkout  
 - Admin panel for order management  
-- Responsive design
+- Responsive design  
 
 ---
 
 ### ☕ Cafe Website
 Dynamic website for cafe table booking & online ordering.  
-**Tech:** HTML, CSS, JS, Bootstrap
+**Tech:** HTML, CSS, JS, Bootstrap  
 
 ---
 
 ### 🤖 Chatbot
 Conversational bot to handle user queries.  
-**Tech:** Python
+**Tech:** Python  
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Highlights
+- 🥇 Built **Uber Clone (MERN)** with live ride-tracking & authentication  
+- 🍕 Developed **Pizza Vincent** – an online food booking & management system  
+- 🌐 Created multiple **dynamic web apps** with **Next.js, PHP, and MySQL**  
+- 📚 Currently contributing to **open-source** and expanding backend expertise  
+- 🎯 Goal-oriented: Transitioning into **Full-Stack Developer / Software Engineer** roles  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soniji5504&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soniji5504&layout=compact&langs_count=8&theme=radical"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soniji5504&theme=radical" alt="Streak Stats"/>
-</div>
+## 📜 Certifications & Learning
+- ✅ Completed **Full-Stack Development Projects** (React, Next.js, Node.js, PHP)  
+- 🎓 Academic background: **BCA @ ITM University, Gwalior**  
+- 📖 Learning **Java (Spring Boot)** & **Scalable Backend Systems**  
+- 🏅 Actively practicing **DSA & Problem-Solving**  
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soniji5504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+---
+
+## 🤝 Open to Opportunities
+💡 Looking for **Internships / Full-time roles** in:  
+- Full-Stack Development  
+- Backend Development  
+- Web Application Development  
+
+📬 Let’s connect if you’re hiring or open to collaborations!  
 
 ---
 
