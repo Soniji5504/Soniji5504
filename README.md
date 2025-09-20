@@ -10,7 +10,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at ITM University, Gwalior  
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** at ITM University, Gwalior  
 - 💡 Skilled in **Frontend + Backend Development**  
 - 🌱 Currently deepening knowledge in **Java** and **Scalable Backend Systems**  
 - 🎯 Goal: To become a proficient **Full-Stack Software Engineer** and contribute to impactful projects  
@@ -29,7 +29,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=for-the-badge)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)  
-![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=fff&style=for-the-badge)
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
@@ -38,7 +37,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)  
 ![JSP](https://img.shields.io/badge/JSP%2FServlets-007396?style=for-the-badge&logo=java&logoColor=fff)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 ### 🗄 Database & ORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
@@ -46,19 +44,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
+
 
 ### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)  
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=fff&style=for-the-badge)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=fff&style=for-the-badge)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
 
 ---
 
@@ -75,7 +71,7 @@ Full-stack ride-booking app inspired by Uber.
 
 ### 📊 Customer Feedback & Resolution Portal
 Web portal to collect and resolve customer complaints.  
-**Tech:** React, Node.js, MongoDB  
+**Tech:** React, java, Mysql  
 - User feedback submission & tracking  
 - Admin dashboard for management  
 - Automated email responses  
@@ -91,15 +87,26 @@ Restaurant web app for online orders & table booking.
 
 ---
 
-### ☕ Cafe Website
-Dynamic website for cafe table booking & online ordering.  
-**Tech:** HTML, CSS, JS, Bootstrap  
+
+### 📇 Contact Manager - CRUD Application
+A modern full-stack CRUD app for managing contacts with advanced search and filtering.  
+- **Tech Stack:** Next.js, TypeScript, TailwindCSS  
+- **Features:** Add, edit, delete, and search contacts in real-time  
 
 ---
 
-### 🤖 Chatbot
-Conversational bot to handle user queries.  
-**Tech:** Python  
+### 📝 Blog Management System
+A blogging platform with category management and post creation.  
+- **Tech Stack:** React, Node.js, Express, MySQL  
+- **Features:** Rich text editor, categories, admin dashboard  
+
+---
+
+### 🛒 E-Commerce Prototype
+An e-commerce web app prototype with product catalog and cart system.  
+- **Tech Stack:** next.js, , TailwindCSS,   
+- **Features:** Product filtering, cart management, user authentication  
+
 
 ---
 
